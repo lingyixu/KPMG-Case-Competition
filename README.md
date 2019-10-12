@@ -1,4 +1,4 @@
-# KPMG-Case-Competition
+# 2016 KPMG Business Case Competition
 
 ## Object of Study
 * Cookie Man, an India cookie company that leads the cookie industry but also faces problems.
